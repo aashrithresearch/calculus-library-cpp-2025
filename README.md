@@ -1,2 +1,2 @@
-# calculus-library-cpp-2025
+# Calculus
 calculus library made using c++, used in python
