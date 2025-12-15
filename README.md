@@ -1,4 +1,4 @@
-# Calculus C++ Library - c++/discrete math 2025-26
+# Calculus C++ Library - C++/Discrete Math 2025-26
 
 A high-performance calculus library written in C++ with Python bindings. Supports symbolic differentiation and integration for polynomials and trigonometric functions.
 
