@@ -29,7 +29,7 @@ pip install .
 
 ## Usage
 
-See `example.ipynb` for detailed examples.
+See `calculus-test.ipynb` for detailed examples.
 
 ## API Reference
 
